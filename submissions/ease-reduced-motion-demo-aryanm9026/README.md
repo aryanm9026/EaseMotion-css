@@ -7,7 +7,7 @@ A set of entrance and interaction animation components that correctly implement 
 ## 2. How is it used?
 
 Add the class to any element. Animations trigger on page load. Use stagger helpers for sequential reveals.
-
+ 
 ```html
 <div class="ease-slide-up">Slides up and fades in</div>
 <div class="ease-slide-left">Slides from left and fades in</div>
